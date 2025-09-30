@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RoleData>
+	<roleList>
+		<RoleInfo >
+			<hp>4</hp>
+			<speed>6</speed>
+			<volume>4</volume>
+			<resName>Airplane/Airplane1</resName>
+			<scale>15</scale>
+		</RoleInfo>
+		<RoleInfo >
+			<hp>3</hp>
+			<speed>7</speed>
+			<volume>4</volume>
+			<resName>Airplane/Airplane2</resName>
+			<scale>15</scale>
+		</RoleInfo>
+		<RoleInfo >
+			<hp>2</hp>
+			<speed>8</speed>
+			<volume>3</volume>
+			<resName>Airplane/Airplane3</resName>
+			<scale>15</scale>
+		</RoleInfo>
+		<RoleInfo >
+			<hp>10</hp>
+			<speed>3</speed>
+			<volume>10</volume>
+			<resName>Airplane/Airplane4</resName>
+			<scale>6</scale>
+		</RoleInfo>
+		<RoleInfo >
+			<hp>6</hp>
+			<speed>5</speed>
+			<volume>7</volume>
+			<resName>Airplane/Airplane5</resName>
+			<scale>15</scale>
+		</RoleInfo>
+	</roleList>
+</RoleData>			
+

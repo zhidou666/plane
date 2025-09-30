@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BulletData>
+	<bulletInfoList>
+		<BulletInfo>
+			<id> 1 </id>
+			<type> 1 </type>
+			<forwardSpeed> 30 </forwardSpeed>
+			<rightSpeed> 0 </rightSpeed>
+			<roundSpeed> 0 </roundSpeed>
+			<resName>Bullet/1</resName>
+			<deadEffRes>DeadEFF/DeadEFF1</deadEffRes>
+			<lifeTime> 8 </lifeTime>
+		</BulletInfo>
+		<BulletInfo>
+			<id> 2 </id>
+			<type> 1 </type>
+			<forwardSpeed> 30 </forwardSpeed>
+			<rightSpeed> 0 </rightSpeed>
+			<roundSpeed> 0 </roundSpeed>
+			<resName>Bullet/2</resName>
+			<deadEffRes>DeadEFF/DeadEFF1</deadEffRes>
+			<lifeTime> 8 </lifeTime>
+		</BulletInfo>
+		<BulletInfo>
+			<id> 3 </id>
+			<type> 1 </type>
+			<forwardSpeed> 30 </forwardSpeed>
+			<rightSpeed> 0 </rightSpeed>
+			<roundSpeed> 0 </roundSpeed>
+			<resName>Bullet/3</resName>
+			<deadEffRes>DeadEFF/DeadEFF1</deadEffRes>
+			<lifeTime> 8 </lifeTime>
+		</BulletInfo>
+		<BulletInfo>
+			<id> 4 </id>
+			<type> 1 </type>
+			<forwardSpeed> 30 </forwardSpeed>
+			<rightSpeed> 0 </rightSpeed>
+			<roundSpeed> 0 </roundSpeed>
+			<resName>Bullet/4</resName>
+			<deadEffRes>DeadEFF/DeadEFF1</deadEffRes>
+			<lifeTime> 8 </lifeTime>
+		</BulletInfo>
+		<BulletInfo>
+			<id> 5 </id>
+			<type> 2 </type>
+			<forwardSpeed> 30 </forwardSpeed>
+			<rightSpeed> 20 </rightSpeed>
+			<roundSpeed> 4 </roundSpeed>
+			<resName>Bullet/1</resName>
+			<deadEffRes>DeadEFF/DeadEFF1</deadEffRes>
+			<lifeTime> 8 </lifeTime>
+		</BulletInfo>
+		<BulletInfo>
+			<id> 6 </id>
+			<type> 2 </type>
+			<forwardSpeed> 30 </forwardSpeed>
+			<rightSpeed> 20 </rightSpeed>
+			<roundSpeed> 4 </roundSpeed>
+			<resName>Bullet/2</resName>
+			<deadEffRes>DeadEFF/DeadEFF1</deadEffRes>
+			<lifeTime> 8 </lifeTime>
+		</BulletInfo>
+		<BulletInfo>
+			<id> 7 </id>
+			<type> 2 </type>
+			<forwardSpeed> 30 </forwardSpeed>
+			<rightSpeed> 20 </rightSpeed>
+			<roundSpeed> 4 </roundSpeed>
+			<resName>Bullet/3</resName>
+			<deadEffRes>DeadEFF/DeadEFF1</deadEffRes>
+			<lifeTime> 8 </lifeTime>
+		</BulletInfo>
+		<BulletInfo>
+			<id> 8 </id>
+			<type> 2 </type>
+			<forwardSpeed> 30 </forwardSpeed>
+			<rightSpeed> 20 </rightSpeed>
+			<roundSpeed> 4 </roundSpeed>
+			<resName>Bullet/4</resName>
+			<deadEffRes>DeadEFF/DeadEFF1</deadEffRes>
+			<lifeTime> 8 </lifeTime>
+		</BulletInfo>
+		<BulletInfo>
+			<id> 9 </id>
+			<type> 3 </type>
+			<forwardSpeed> 30 </forwardSpeed>
+			<rightSpeed> 150 </rightSpeed>
+			<roundSpeed> 0 </roundSpeed>
+			<resName>Bullet/1</resName>
+			<deadEffRes>DeadEFF/DeadEFF1</deadEffRes>
+			<lifeTime> 8 </lifeTime>
+		</BulletInfo>
+		<BulletInfo>
+			<id> 10 </id>
+			<type> 3 </type>
+			<forwardSpeed> 30 </forwardSpeed>
+			<rightSpeed> 150 </rightSpeed>
+			<roundSpeed> 0 </roundSpeed>
+			<resName>Bullet/2</resName>
+			<deadEffRes>DeadEFF/DeadEFF1</deadEffRes>
+			<lifeTime> 8 </lifeTime>
+		</BulletInfo>
+		<BulletInfo>
+			<id> 11 </id>
+			<type> 3 </type>
+			<forwardSpeed> 30 </forwardSpeed>
+			<rightSpeed> 150 </rightSpeed>
+			<roundSpeed> 0 </roundSpeed>
+			<resName>Bullet/3</resName>
+			<deadEffRes>DeadEFF/DeadEFF1</deadEffRes>
+			<lifeTime> 8 </lifeTime>
+		</BulletInfo>
+		<BulletInfo>
+			<id> 12 </id>
+			<type> 3 </type>
+			<forwardSpeed> 30 </forwardSpeed>
+			<rightSpeed> 150 </rightSpeed>
+			<roundSpeed> 0 </roundSpeed>
+			<resName>Bullet/4</resName>
+			<deadEffRes>DeadEFF/DeadEFF1</deadEffRes>
+			<lifeTime> 8 </lifeTime>
+		</BulletInfo><BulletInfo>
+			<id> 13 </id>
+			<type> 4 </type>
+			<forwardSpeed> 30 </forwardSpeed>
+			<rightSpeed> 150 </rightSpeed>
+			<roundSpeed> 0 </roundSpeed>
+			<resName>Bullet/1</resName>
+			<deadEffRes>DeadEFF/DeadEFF1</deadEffRes>
+			<lifeTime> 8 </lifeTime>
+		</BulletInfo>
+		<BulletInfo>
+			<id> 14 </id>
+			<type> 4 </type>
+			<forwardSpeed> 30 </forwardSpeed>
+			<rightSpeed> 150 </rightSpeed>
+			<roundSpeed> 0 </roundSpeed>
+			<resName>Bullet/2</resName>
+			<deadEffRes>DeadEFF/DeadEFF1</deadEffRes>
+			<lifeTime> 8 </lifeTime>
+		</BulletInfo>
+		<BulletInfo>
+			<id> 15 </id>
+			<type> 4 </type>
+			<forwardSpeed> 30 </forwardSpeed>
+			<rightSpeed> 150 </rightSpeed>
+			<roundSpeed> 0 </roundSpeed>
+			<resName>Bullet/3</resName>
+			<deadEffRes>DeadEFF/DeadEFF1</deadEffRes>
+			<lifeTime> 8 </lifeTime>
+		</BulletInfo>
+		<BulletInfo>
+			<id> 16 </id>
+			<type> 4 </type>
+			<forwardSpeed> 30 </forwardSpeed>
+			<rightSpeed> 150 </rightSpeed>
+			<roundSpeed> 0 </roundSpeed>
+			<resName>Bullet/4</resName>
+			<deadEffRes>DeadEFF/DeadEFF1</deadEffRes>
+			<lifeTime> 8 </lifeTime>
+		</BulletInfo>
+		<BulletInfo>
+		    <id> 17 </id>
+			<type> 5 </type>
+			<forwardSpeed> 30 </forwardSpeed>
+			<rightSpeed> 9 </rightSpeed>
+			<roundSpeed> 40 </roundSpeed>
+			<resName>Bullet/1</resName>
+			<deadEffRes>DeadEFF/DeadEFF1</deadEffRes>
+			<lifeTime> 8 </lifeTime>
+		</BulletInfo>
+		<BulletInfo>
+			<id> 18 </id>
+			<type> 5 </type>
+			<forwardSpeed> 30 </forwardSpeed>
+			<rightSpeed> 0 </rightSpeed>
+			<roundSpeed> 40 </roundSpeed>
+			<resName>Bullet/2</resName>
+			<deadEffRes>DeadEFF/DeadEFF1</deadEffRes>
+			<lifeTime> 8 </lifeTime>
+		</BulletInfo>
+		<BulletInfo>
+			<id> 19 </id>
+			<type> 5 </type>
+			<forwardSpeed> 30 </forwardSpeed>
+			<rightSpeed> 0 </rightSpeed>
+			<roundSpeed> 49 </roundSpeed>
+			<resName>Bullet/3</resName>
+			<deadEffRes>DeadEFF/DeadEFF1</deadEffRes>
+			<lifeTime> 8 </lifeTime>
+		</BulletInfo>
+		<BulletInfo>
+			<id> 20 </id>
+			<type> 5 </type>
+			<forwardSpeed> 30 </forwardSpeed>
+			<rightSpeed> 0 </rightSpeed>
+			<roundSpeed> 40 </roundSpeed>
+			<resName>Bullet/4</resName>
+			<deadEffRes>DeadEFF/DeadEFF1</deadEffRes>
+			<lifeTime> 8 </lifeTime>
+		</BulletInfo>
+	</bulletInfoList>
+</BulletData>

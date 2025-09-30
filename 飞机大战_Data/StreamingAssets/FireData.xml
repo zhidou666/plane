@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FireData>
+	<fireInfoList>
+		<FireInfo>
+			<id>1</id>
+			<type>1</type>
+			<num>5</num>
+			<cd>1.8</cd>
+			<ids>1,20</ids>
+			<delay>8</delay>
+		</FireInfo>
+		<FireInfo>
+			<id>2</id>
+			<type>2</type>
+			<num>5</num>
+			<cd>0</cd>
+			<ids>11,20</ids>
+			<delay>10</delay>
+		</FireInfo>
+		<FireInfo>
+			<id>3</id>
+			<type>2</type>
+			<num>8</num>
+			<cd>1.5</cd>
+			<ids>1,20</ids>
+			<delay>5</delay>
+		</FireInfo>
+		<FireInfo>
+			<id>4</id>
+			<type>1</type>
+			<num>10</num>
+			<cd>1.5</cd>
+			<ids>5,15</ids>
+			<delay>10</delay>
+		</FireInfo>
+	</fireInfoList>	
+</FireData>
